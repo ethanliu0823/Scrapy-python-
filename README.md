@@ -1,0 +1,3 @@
+# Scrapy-python-
+
+Maybe python is the most smart language....
